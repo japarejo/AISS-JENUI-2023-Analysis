@@ -1,3 +1,4 @@
 pandas
 xlrd
 plot-likert
+wordcloud
